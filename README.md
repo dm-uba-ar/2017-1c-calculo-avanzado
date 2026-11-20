@@ -1,10 +1,5 @@
 # Cálculo Avanzado — Primer cuatrimestre de 2017
 
-## Equipo docente
-
-- **Clases teóricas:** Juan José Guccione
-- **Clases prácticas:** Eugenio Borghini, Emanuel Ferreyra, Virginia Pedreira
-
 ## Prácticas
 
 - [Ejercicio 1](entrega1.pdf)
